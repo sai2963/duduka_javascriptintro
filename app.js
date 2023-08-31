@@ -1,4 +1,4 @@
 let name = "Sai";
 let age= 20;
-let hobbies = ['coding','reading','playing']
+let hobbies = ['coding','reading','playing','eating']
 alert(hobbies[0])
